@@ -27,7 +27,6 @@ export default function Description() {
     descr: useSelector((state) => state?.locationReducer?.locationdata?.desc),
     recexp: useSelector((state) => state?.locationReducer?.locationdata?.recexp),
   };
-
   return (
     <div
       style={{
