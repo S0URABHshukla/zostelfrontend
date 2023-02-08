@@ -18,7 +18,6 @@ export default function Cart() {
   useEffect(() => {
     dispatch(getLocationData(place));
   }, [place]);
-  console.log(data.city.label);
   return (
     <div>
       {isLoad ? (
