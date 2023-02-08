@@ -12,7 +12,7 @@ export default function CPolicy() {
         </p>
         <p>NOTE:</p>
         <p>
-          - 21% advance payment is non-refundable at all times, as stated above.{" "}
+          - 21% advance payment is non-refundable at all times, as stated above.
         </p>
         <p>
           - If you have paid any amount over this 21%, it stands applicable for
