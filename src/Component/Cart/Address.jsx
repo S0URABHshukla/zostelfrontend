@@ -39,7 +39,6 @@ export default function Address() {
           <p style={{ color: "#4b4848", fontFamily: "CircularStdMedium" }}>
             {data.address}
           </p>
-
           <p
             style={{
               fontFamily: "CircularStdBlack",
