@@ -44,11 +44,7 @@ export default function Booking() {
     setroom3,
     room1name,
     room2name,
-    room3name,
-  } = useContext(ContextData);
-
-  // let val = document.getElementById("countval").value;
-  // console.log(val);
+    room3name,} = useContext(ContextData);
   return (
     <div id="main">
       <div id="bookmain">
@@ -83,8 +79,6 @@ export default function Booking() {
             <div id="cal">
               <div
                 onClick={() => {
-                  //setStartDate(startDate);
-                  // setEndDate(endDate);
                   let data = {
                     startDate: startDate,
                     endDate: endDate,
@@ -111,7 +105,6 @@ export default function Booking() {
                   dateFormat="E dd MMMM,yyyy"
                   endDate={endDate}
                   minDate={new Date()}
-                // excludeDates={[new Date(), subDays(new Date(), 1)]}
                 />
               </div>
               <div>
