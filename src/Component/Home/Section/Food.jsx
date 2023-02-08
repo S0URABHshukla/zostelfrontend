@@ -10,7 +10,7 @@ function Food() {
     let [data, setData] = useState([]);
 
     let fetchData = async () => {
-        let responce = await fetch(`https://sleepy-plum-coveralls.cyclic.app/food`);
+        let responce = await fetch(`https://erin-lovely-llama.cyclic.app/food`);
         let data = await responce.json();
         // console.log(data);
         setData(data);

@@ -10,7 +10,7 @@ function Nature() {
     let [data, setData] = useState([]);
 
     let fetchData = async () => {
-        let responce = await fetch(`https://sleepy-plum-coveralls.cyclic.app/nature`);
+        let responce = await fetch(`https://erin-lovely-llama.cyclic.app/nature`);
         let data = await responce.json();
         //console.log(data);
         setData(data);

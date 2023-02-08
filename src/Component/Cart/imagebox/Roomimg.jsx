@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 
 function Roomimg10bed() {
   const imageten = useSelector(
-    (state) => state.locationReducer.locationdata.tenbedimg
+    (state) => state?.locationReducer?.locationdata?.tenbedimg
   ) || [""];
   return (
     <HeroSlider
@@ -47,7 +47,7 @@ function Roomimg10bed() {
 }
 function Roomimg6bed() {
   const imagesix = useSelector(
-    (state) => state.locationReducer.locationdata.sixbedimg
+    (state) => state?.locationReducer?.locationdata?.sixbedimg
   ) || [""];
   return (
     <HeroSlider
@@ -91,7 +91,7 @@ function Roomimg6bed() {
 }
 function Roomimg4bed() {
   const images = useSelector(
-    (state) => state.locationReducer.locationdata.fourbedimg
+    (state) => state.locationReducer?.locationdata?.fourbedimg
   ) || [""];
 
   return (

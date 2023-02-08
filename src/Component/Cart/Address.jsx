@@ -8,10 +8,10 @@ import { useState } from "react";
 export default function Address() {
   const [box, setbox] = useState(false);
   const data = {
-    address: useSelector((state) => state.locationReducer.locationdata.address),
-    contact: useSelector((state) => state.locationReducer.locationdata.contact),
+    address: useSelector((state) => state?.locationReducer?.locationdata?.address),
+    contact: useSelector((state) => state?.locationReducer?.locationdata?.contact),
     location: useSelector(
-      (state) => state.locationReducer.locationdata.location
+      (state) => state.locationReducer?.locationdata?.location
     ),
   };
   return (

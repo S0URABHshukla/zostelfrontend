@@ -10,7 +10,7 @@ function Northen() {
     let [data, setData] = useState([]);
 
     let fetchData = async () => {
-        let responce = await fetch(`https://sleepy-plum-coveralls.cyclic.app/northen`);
+        let responce = await fetch(`https://erin-lovely-llama.cyclic.app/northen`);
         let data = await responce.json();
         //console.log(data);
         setData(data);

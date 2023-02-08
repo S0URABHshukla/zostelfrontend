@@ -23,9 +23,9 @@ import LocalParking from "@mui/icons-material/LocalParking";
 
 export default function Description() {
   const data = {
-    cityname: useSelector((state) => state.locationReducer.locationdata.city),
-    descr: useSelector((state) => state.locationReducer.locationdata.desc),
-    recexp: useSelector((state) => state.locationReducer.locationdata.recexp),
+    cityname: useSelector((state) => state?.locationReducer?.locationdata?.city),
+    descr: useSelector((state) => state?.locationReducer?.locationdata?.desc),
+    recexp: useSelector((state) => state?.locationReducer?.locationdata?.recexp),
   };
 
   return (

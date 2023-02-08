@@ -12,7 +12,7 @@ function Award() {
     let [data, setData] = useState([]);
 
     let fetchData = async () => {
-        let responce = await fetch(`https://sleepy-plum-coveralls.cyclic.app/awardmedia`);
+        let responce = await fetch(`https://erin-lovely-llama.cyclic.app/awardmedia`);
         let data = await responce.json();
         //console.log(data);
         setData(data);

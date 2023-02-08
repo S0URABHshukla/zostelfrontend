@@ -13,11 +13,11 @@ import Booking from "./Booking";
 export default function Cart() {
   let data = JSON.parse(localStorage.getItem("data"));
   const [place, setplace] = useState(data.city.label);
-  const isLoad = useSelector((state) => state.locationReducer.locationLoading);
+  const isLoad = useSelector((state) => state?.locationReducer?.locationLoading);
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(getLocationData(place));
-  }, []);
+  }, [place]);
   console.log(data.city.label);
   return (
     <div>

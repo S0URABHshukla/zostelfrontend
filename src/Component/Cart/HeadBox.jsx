@@ -1,9 +1,9 @@
 import { useSelector } from "react-redux";
 export default function HeadBox() {
   const data = useSelector(
-    (state) => state.locationReducer.locationdata.hotelimg
+    (state) => state.locationReducer?.locationdata?.hotelimg
   );
-
+    console.log(data)
   return (
     <div
       style={{
@@ -24,7 +24,7 @@ export default function HeadBox() {
         }}
       >
         <img
-          src={data === undefined ? "" : data[0]}
+          src={data === undefined ? "https://img.cdn.zostel.com/zostel/gallery/images/VNdTvbAvTOCr2KjpFGmB9A/zostel-bangalore-facade-20221021082502.jpg?w=1280" : data[0]}
           alt="1"
           width="100%"
           height="100%"
@@ -32,7 +32,6 @@ export default function HeadBox() {
         />
       </div>
       <div style={{ width: "250px" }}>
-        {" "}
         <div
           style={{
             height: "150px",
@@ -40,7 +39,7 @@ export default function HeadBox() {
           }}
         >
           <img
-            src={data === undefined ? "" : data[1]}
+            src={data === undefined ? "https://img.cdn.zostel.com/zostel/gallery/images/hbjG2oY_Tim9SDhAL8JcBQ/zostel-bangalore-pool-table-20221021082540.jpg?w=1280" : data[1]}
             alt="2"
             width="100%"
             height="100%"
@@ -54,7 +53,7 @@ export default function HeadBox() {
           }}
         >
           <img
-            src={data === undefined ? "" : data[2]}
+            src={data === undefined ? "https://img.cdn.zostel.com/zostel/gallery/images/gPB5oDSaSYSKdxq2ECWPBw/zostel-bangalore-garden-20221021082522.jpg?w=1280" : data[2]}
             alt="3"
             width="100%"
             height="100%"
@@ -68,7 +67,7 @@ export default function HeadBox() {
           }}
         >
           <img
-            src={data === undefined ? "" : data[3]}
+            src={data === undefined ? "https://img.cdn.zostel.com/zostel/gallery/images/nLSa3A68SYaQ_l0GAMI4gw/zostel-bangalore-20221021082717.jpg?w=1280" : data[3]}
             alt="4"
             width="100%"
             height="100%"

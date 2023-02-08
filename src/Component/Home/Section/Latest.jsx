@@ -6,15 +6,11 @@ import AwardCard from "../HomeComponent/AwardCard";
 import "./NewYear.css";
 import LatestReadCard from "../HomeComponent/LatestReadCard";
 
-
-
 function Latest() {
     let [data, setData] = useState([]);
-
     let fetchData = async () => {
-        let responce = await fetch(`https://sleepy-plum-coveralls.cyclic.app/latestread`);
+        let responce = await fetch(`https://erin-lovely-llama.cyclic.app/latestread`);
         let data = await responce.json();
-        //console.log(data);
         setData(data);
     }
 
@@ -41,15 +37,11 @@ function Latest() {
                             />
                         )
                     })}
-
                 </Carousel>
             </div>
-
         </div>
     );
-
 }
-
 export default Latest;
 
 
