@@ -3,7 +3,6 @@ export default function HeadBox() {
   const data = useSelector(
     (state) => state.locationReducer?.locationdata?.hotelimg
   );
-    console.log(data)
   return (
     <div
       style={{
