@@ -93,7 +93,6 @@ function Roomimg4bed() {
   const images = useSelector(
     (state) => state.locationReducer?.locationdata?.fourbedimg
   ) || [""];
-
   return (
     <HeroSlider
       width={"180px"}
