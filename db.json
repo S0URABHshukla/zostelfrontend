@@ -1,0 +1,738 @@
+{
+    "destination": [
+        {
+            "id": 1,
+            "name": "Rishikesh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/pV8Zu4TVQbeSL59nrusJeA/get-spiritual-adventurous-in-this-city-by-t_xbL6gM3.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Sainj",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/eU1SC0kiQqqDT0gUpZu1_w/meadow-in-sainj-20211018183004.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Shangarh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/EG5ypwdDS5qOTvUD1wHlAg/shangarh-20220520104026.jpg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Alleppey",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/iMbVUJ5hRVKdK7uHEuVAYQ/house-boats-backwaters-and-canals-for-impec_8Qw54xE.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Aurangabad",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/XaytahvmQ4-_ftorVrLJvA/aurangabad-20220127184606.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Bangalore",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/VFvd-Qq7Q92zkhbjE2ufYA/karnatakas-metropolitan-city-with-its-grand_3lJVBIb.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Banikhet",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/7CHJ2bvRQMG4-O8BxdWQ6Q/banikhet-20220609102033.jpg?h=400"
+        },
+        {
+            "id": 8,
+            "name": "Barot",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/0h7EG5blRO60ptcETfeOxw/a-trekking-destination-for-adventure-lovers_bpY4sqa.jpg?h=400"
+        },
+        {
+            "id": 9,
+            "name": "Bhor",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/TPVP4HctQxaBxV19FLbsOA/bhor-20220720132248.jpg?h=400"
+        },
+        {
+            "id": 10,
+            "name": "Bir",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Au2EbwKgSbm7VRBzFhzwIg/taste-adventure-in-the-himalayas-of-bir-202_H7vz0yf.jpg?h=400"
+        },
+        {
+            "id": 11,
+            "name": "Burwa",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/AogyCX0KQpeNYeOK545cgA/burwa-20220520080419.jpg?h=400"
+        },
+        {
+            "id": 12,
+            "name": "Chamba",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/UckUVWBuRO26Pzrm9kNB8A/chamba-20220602201924.jpg?h=400"
+        },
+        {
+            "id": 13,
+            "name": "Chamera",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/AYGyj3isTgCtwXOe8QPzWA/chamera-20220603112550.jpg?h=400"
+        },
+        {
+            "id": 14,
+            "name": "Cheog",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/klPbFw-LTqKyyzDQBl0Zew/cheog-20220531115200.jpg?h=400"
+        },
+        {
+            "id": 15,
+            "name": "Chitkul",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/0wlj3wscTd-7gpMeKkSinA/a-pure-hidden-gem-of-the-himalayas-20201112102045.jpg?h=400"
+        },
+        {
+            "id": 16,
+            "name": "Coorg",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/nFSCCFyoT1On6QD2gG3SHQ/greenery-is-found-at-its-best-in-coorg-2020_o86HXBS.jpg?h=400"
+        },
+        {
+            "id": 17,
+            "name": "Dalhousie",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/KV_nLxpvQhWEun7qPyzdQw/nature-to-its-most-serene-simple-20201112102036.jpg?h=400"
+        },
+        {
+            "id": 18,
+            "name": "Delhi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/2qNpdv4mTy-OyDx-VFpTOg/explore-history-modernism-in-the-capital-of_2l8lKSl.jpg?h=400"
+        },
+        {
+            "id": 19,
+            "name": "Dharamkot",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Rp7QpX-JS42R933SRiONNw/dharamkot-20220807174126.jpg?h=400"
+        },
+        {
+            "id": 20,
+            "name": "Dobhi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Gfsg8IToQ06i9kMUmr2zFg/dobhi-20211221140238.JPG?h=400"
+        },
+        {
+            "id": 21,
+            "name": "Fagu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Um739YDBSuSRUSTyNUQzJQ/fagu-20220129085617.jpeg?h=400"
+        },
+        {
+            "id": 22,
+            "name": "Gangtok",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/PPACzAu0TgGZoOToeONP2A/explore-cultures-offbeat-landscapes-of-sikk_hGGsKcC.jpg?h=400"
+        },
+        {
+            "id": 23,
+            "name": "Gokarna",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Vws-7i_-RB6wVpatSsELBQ/pristine-beaches-a-boho-vibe-for-reposeful-_CPIOTmf.jpg?h=400"
+        },
+        {
+            "id": 24,
+            "name": "Harabhag",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/h53v7Qw4Q5uzvmUyHX1SGQ/harabhag-20220812144602.jpg?h=400"
+        },
+        {
+            "id": 25,
+            "name": "Hyderabad",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/cTHdge5sSRC8ezqHjVrO7Q/hyderabad-20221226163404.jpg?h=400"
+        },
+        {
+            "id": 26,
+            "name": "Jaipur",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Du8SGQOGTf2fv801B28URw/the-pink-city-swarms-with-exceptional-monum_cvNBOwX.jpg?h=400"
+        },
+        {
+            "id": 27,
+            "name": "Jaisalmer",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/673Xm9LkQW2dIay4ft-Aiw/folk-music-a-living-fort-golden-houses-make_oXWFuru.jpg?h=400"
+        },
+        {
+            "id": 28,
+            "name": "Jibhi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/_7osfwtmT9SiCNJo_Z5LGw/jibhi-20220129082028.jpeg?h=400"
+        },
+        {
+            "id": 29,
+            "name": "Jodhpur",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/SkZZW54OQLGE2oB7jWQqKg/the-blue-city-charms-travellers-with-rich-h_AT52qza.jpg?h=400"
+        },
+        {
+            "id": 30,
+            "name": "Joginder Nagar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/_gzV5JHaQRGpd5XMqpvEMQ/joginder-nagar-20220812150941.jpg?h=400"
+        },
+        {
+            "id": 31,
+            "name": "Kareri",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/MYvyHgm9RmGKNCGnzY5dkA/kareri-20221221145628.jpg?h=400"
+        },
+        {
+            "id": 32,
+            "name": "Kasar Devi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ped-Iw4FQjG9s2xJO8LPAw/kasar-devi-forest-trail-20221216120707.jpg?h=400"
+        },
+        {
+            "id": 33,
+            "name": "Kathmandu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/BBojebYVRMC_Kz6Vb9HlGQ/kathmandu-20220509195537.jpg?h=400"
+        },
+        {
+            "id": 34,
+            "name": "Kibber",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ycrLKCSzTLynEcEMWhfhbQ/kibber-village-20220518114707.jpg?h=400"
+        },
+        {
+            "id": 35,
+            "name": "Kochi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/q2_1UJRKRi-JA5URnsYlrw/a-city-of-eclectic-cultures-mounuments-and-_8br8xkb.jpg?h=400"
+        },
+        {
+            "id": 36,
+            "name": "Kodaikanal",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/n2DSeX-CTqW9OH3Uxbfk4g/green-hills-waterfalls-await-you-on-a-cooli_jj2RuNL.jpg?h=400"
+        },
+        {
+            "id": 37,
+            "name": "Kolad",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/10vEzZsmTGOYrdrMxt1t4A/kolad-20220509201522.jpg?h=400"
+        },
+        {
+            "id": 38,
+            "name": "Kotkhai",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/7aR77y23RE2ku4DqWkxMQw/kotkhai-20220129082514.jpeg?h=400"
+        },
+        {
+            "id": 39,
+            "name": "Kullu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/u8jCb_7nTdqjHp4YBfiMMg/a-valley-rich-in-culture-adventure-20201112102053.jpg?h=400"
+        },
+        {
+            "id": 39,
+            "name": "Lahaul",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/mSbYyUKESay5ju_3gMdLIg/quaint-village-in-lahaul-and-spiti-20211126122444.jpg?h=400"
+        },
+        {
+            "id": 40,
+            "name": "Laida",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/DQgGrIe5QU28zSn0q7r_hw/laida-20220531122210.png?h=400"
+        },
+        {
+            "id": 41,
+            "name": "Leh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/qZ31rj3VTauFRKJEyStx0A/breathtaking-mountain-views-for-a-remarkabl_X9jEPVF.jpg?h=400"
+        },
+        {
+            "id": 42,
+            "name": "Lonavala",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/4EsKiY1jQX6_SH5mnl8lEA/lonavala-20220509133204.jpg?h=400"
+        },
+        {
+            "id": 43,
+            "name": "Manali",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/D3heeR2oQGWYbzDudHlb7g/the-ultimate-adventure-destination-20201112102009.jpg?h=400"
+        },
+        {
+            "id": 44,
+            "name": "Mandi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/WmAn-zXvRDOpQ9lRoVsyhA/mandi-20220909074459.jpg?h=400"
+        },
+        {
+            "id": 45,
+            "name": "Mashobra",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/IPn0UjgcSKCxO0zwvR1ggw/mashobra-20220520114415.jpg?h=400"
+        },
+        {
+            "id": 46,
+            "name": "Mcleodganj",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/N6l5Q3_vRBWklRyr3-MW0g/hikes-sunsets-and-nature-advetures-galore-2_zxqD3IU.jpg?h=400"
+        },
+        {
+            "id": 47,
+            "name": "Mukteshwar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ajGhJ5OYTQ6hA6blRRvxrw/explore-uttarakhands-offbeat-mountain-town-_33v9F6C.jpg?h=400"
+        },
+        {
+            "id": 47,
+            "name": "Mumbai",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/UWJiH32BTceUwGTTcYKFhg/immerse-in-the-grandeur-of-a-beautiful-cosm_A8LEuz6.jpg?h=400"
+        },
+        {
+            "id": 48,
+            "name": "Munnar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/STHFwx02QOOotigPdmvxfw/tea-gardens-of-munnar-20210823102020.jpg?h=400"
+        },
+        {
+            "id": 49,
+            "name": "Mussoorie",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/s1T-TU6dSDmNwo7l5oN_FA/mountain-vibes-meet-city-hustle-in-mussoori_9qo0Puk.jpg?h=400"
+        },
+        {
+            "id": 50,
+            "name": "Mysore",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/2sebkMshRAGGtfIlFRMpgA/the-city-of-glory-great-food-and-yoga-20201_4LDGqHE.jpg?h=400"
+        },
+        {
+            "id": 51,
+            "name": "Naggar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/4PemODayTxSzAoT2kTG9lQ/naggar-20220129152552.JPG?h=400"
+        },
+        {
+            "id": 52,
+            "name": "Nainital",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/l0ZziDVVTHGBHlMjCFGWfA/nainital-20220425094011.jpg?h=400"
+        },
+        {
+            "id": 53,
+            "name": "Narkanda",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/cx4xQX2aR7-eMFn-JBw7CA/narkanda-20220129083146.jpg?h=400"
+        },
+        {
+            "id": 54,
+            "name": "Nepal",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ao96ruidT_OPgx6ZdbKUmQ/nepal-20220912084243.jpg?h=400"
+        },
+        {
+            "id": 55,
+            "name": "Ooty",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ao96ruidT_OPgx6ZdbKUmQ/nepal-20220912084243.jpg?h=400"
+        },
+        {
+            "id": 55,
+            "name": "Panchgani",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Qc8EQutIRdaCZ7DW68ya8A/the-meadows-hills-that-soothe-your-hearts-2_Yaumn8n.jpg?h=400"
+        },
+        {
+            "id": 56,
+            "name": "Pokhara",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/AtvyQgcZRhuQXFz_o7H-nA/major-chilling-fascinating-mountain-views-f_7okEzfW.jpg?h=400"
+        },
+        {
+            "id": 57,
+            "name": "Pushkar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/8Ty19L5RRG-9-OuCK3DrvA/pushkar-marked-by-the-camel-fair-holi-boho-_5vCLxWt.jpg?h=400"
+        },
+        {
+            "id": 58,
+            "name": "Rakchham",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/udG8lKf8Q86q4jzNgTzX6w/rakchham-20220129083247.jpeg?h=400"
+        },
+        {
+            "id": 59,
+            "name": "Ramgarh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/PyCqDCYyTq-UGXZv6x0JaA/ramgarh-20220425080648.jpg?h=400"
+        },
+        {
+            "id": 60,
+            "name": "Rashil",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/9qA5tJuOQ-KuMTDuQaawNA/rashil-20220520101141.jpg?h=400"
+        },
+        {
+            "id": 61,
+            "name": "Rumsu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/f49h5oWdTvmSC7fAFkDzKg/rumsu-20220520120630.jpg?h=400"
+        },
+        {
+            "id": 62,
+            "name": "Sangla",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/LmB7Z-GjTlGOvNACrKJF3A/sangla-valley-20220427141131.jpg?h=400"
+        },
+        {
+            "id": 63,
+            "name": "Sissu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/HtlJPy4VR16l3Jo_Sv_7qA/sissu-20220520105126.jpg?h=400"
+        },
+        {
+            "id": 64,
+            "name": "Spiti",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/DyinTjjgSdyrinsUYrMbFg/himachals-treasure-trove-of-adventure-scene_qi6U78o.jpg?h=400"
+        },
+        {
+            "id": 65,
+            "name": "Srinagar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/WGaSSPg9Q2Od2DTJwkp7EA/row-through-serenity-in-kashmir-the-heaven-_FDCyHNZ.jpg?h=400"
+        },
+        {
+            "id": 66,
+            "name": "Tabo",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/X-2PXSAITViLrKBfb1E35g/tabo-20220509192037.jpg?h=400"
+        },
+        {
+            "id": 67,
+            "name": "Theog",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ejoc4XjpR8K-iVeLgcsJhA/theog-20220129083825.jpeg?h=400"
+        },
+        {
+            "id": 68,
+            "name": "TheUdaipurog",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/e87weGZtRh2z-63uVCFhiQ/the-city-of-lakes-sparkles-in-royalty-monum_Gpdo6lM.jpg?h=400"
+        },
+        {
+            "id": 69,
+            "name": "Vagamon",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/wU3aRxPoQMaZOUdUic7rYg/keralas-secret-town-with-exceptional-beauty_i5zBhcf.jpg?h=400"
+        },
+        {
+            "id": 70,
+            "name": "Wayanad",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/gzl52CwDTOapZZx1su1P4A/a-scenic-hill-station-in-the-truest-sense-2_Do05hrG.jpg?h=400"
+        }
+    ],
+    "new": [
+        {
+            "id": 1,
+            "name": "Introducing Zostel Hyderabad!",
+            "description": "A hostel high on the dynamic Zostel spirit, Zostel Hyderabad is your new indulgent stay to explore the goodness of this ancient city over fun conversations and chill scenes.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20221228103629.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Introducing Zostel Plus Kareri!",
+            "description": "The first Zostel with an in-house club, Zostel Plus Kareri is your happening escape in the mountains right by a gushing river.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20221222102237.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Introducing Zostel Homes Kasar Devi!",
+            "description": "Kumaon gets one more Zostel Homes, overlooking the towering Himalayas and offering an unparalleled nature retreat.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20221221130658.png"
+        },
+        {
+            "id": 4,
+            "name": "8-day Spiti Trip - Winter Edition with Zostel",
+            "description": "Explore Chitkul, Tabo, Kaza, and more. Meals, local guide, stay, and transport included.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/14/20220718113318.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Zostel Wayanad is now Zostel Plus Wayanad!",
+            "description": "The much-loved Zostel Wayanad is now back in an amped-up avatar. Explore the finest experiences of Wayanad’s lush surroundings with our premium hostel at the bottom of Chembra peak.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20221124124537.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Introducing Zostel Plus Rishikesh (Mohanchatti)!",
+            "description": "Our swanky new hostel combines luxury, art, nature, and more to amp up your next holiday to Rishikesh.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20221022051242.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Introducing Zostel Manali (Burwa)",
+            "description": "Our beloved Zostel Home Burwa is now revamped into a lively backpackers hostel.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20221011133714.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Zostel Alleppey is back after a revamp!",
+            "description": "Situated by Alappuzha Beach, Zostel Alleppey is back in an all-new avatar.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220901075141.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Introducing Zostel McLeodganj!",
+            "description": "Located at the heart of McLeodganj, this Zostel offers quick access to the town’s best experiences.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/25/20220916083452.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Introducing Zostel Home Harabhag!",
+            "description": "A peaceful holiday awaits you in the offbeat village of Harabhag, 20 km from Bir.",
+            "image": "https://img.cdn.zostel.com/zostel/cards/whats_new/None/20220817100409.jpg"
+        }
+    ],
+    "newYear": [
+        {
+            "id": 1,
+            "name": "Gangtok",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/PPACzAu0TgGZoOToeONP2A/explore-cultures-offbeat-landscapes-of-sikk_hGGsKcC.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Pokhara",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/AtvyQgcZRhuQXFz_o7H-nA/major-chilling-fascinating-mountain-views-f_7okEzfW.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Varkala",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/dbXRlFN5R8-sGyoUDYND9w/beaches-surfing-a-free-vibe-for-the-perfect_7c1tGV1.jpg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Leh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/qZ31rj3VTauFRKJEyStx0A/breathtaking-mountain-views-for-a-remarkabl_X9jEPVF.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Lonavala",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/4EsKiY1jQX6_SH5mnl8lEA/lonavala-20220509133204.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Alleppey",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/iMbVUJ5hRVKdK7uHEuVAYQ/house-boats-backwaters-and-canals-for-impec_8Qw54xE.jpg?h=400"
+        }
+    ],
+    "northen": [
+        {
+            "id": 1,
+            "name": "Bir",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Au2EbwKgSbm7VRBzFhzwIg/taste-adventure-in-the-himalayas-of-bir-202_H7vz0yf.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Chitkul",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/0wlj3wscTd-7gpMeKkSinA/a-pure-hidden-gem-of-the-himalayas-20201112102045.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Rishikesh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/pV8Zu4TVQbeSL59nrusJeA/get-spiritual-adventurous-in-this-city-by-t_xbL6gM3.jpg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Dalhousie",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/KV_nLxpvQhWEun7qPyzdQw/nature-to-its-most-serene-simple-20201112102036.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Chamba",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/UckUVWBuRO26Pzrm9kNB8A/chamba-20220602201924.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Nainital",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/l0ZziDVVTHGBHlMjCFGWfA/nainital-20220425094011.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Mcleodganj",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/N6l5Q3_vRBWklRyr3-MW0g/hikes-sunsets-and-nature-advetures-galore-2_zxqD3IU.jpg?h=400"
+        }
+    ],
+    "southern": [
+        {
+            "id": 1,
+            "name": "Gokarna",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Vws-7i_-RB6wVpatSsELBQ/pristine-beaches-a-boho-vibe-for-reposeful-_CPIOTmf.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Ooty",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/cnwDOgdFTMmAHypdWsF4PQ/indulge-in-a-green-refreshing-holiday-20201_iiKPgQT.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Kodaikanal",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/n2DSeX-CTqW9OH3Uxbfk4g/green-hills-waterfalls-await-you-on-a-cooli_jj2RuNL.jpg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Vagamon",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/wU3aRxPoQMaZOUdUic7rYg/keralas-secret-town-with-exceptional-beauty_i5zBhcf.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Varkala",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/dbXRlFN5R8-sGyoUDYND9w/beaches-surfing-a-free-vibe-for-the-perfect_7c1tGV1.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Coorg",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/nFSCCFyoT1On6QD2gG3SHQ/greenery-is-found-at-its-best-in-coorg-2020_o86HXBS.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Munnar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/STHFwx02QOOotigPdmvxfw/tea-gardens-of-munnar-20210823102020.jpg?h=400"
+        }
+    ],
+    "weekend": [
+        {
+            "id": 1,
+            "name": "Jodhpur",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/SkZZW54OQLGE2oB7jWQqKg/the-blue-city-charms-travellers-with-rich-h_AT52qza.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Gokarna",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Vws-7i_-RB6wVpatSsELBQ/pristine-beaches-a-boho-vibe-for-reposeful-_CPIOTmf.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Mysore",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/2sebkMshRAGGtfIlFRMpgA/the-city-of-glory-great-food-and-yoga-20201_4LDGqHE.jpg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Aurangabad",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/XaytahvmQ4-_ftorVrLJvA/aurangabad-20220127184606.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Rishikesh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/pV8Zu4TVQbeSL59nrusJeA/get-spiritual-adventurous-in-this-city-by-t_xbL6gM3.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Coorg",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/nFSCCFyoT1On6QD2gG3SHQ/greenery-is-found-at-its-best-in-coorg-2020_o86HXBS.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Nainital",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/l0ZziDVVTHGBHlMjCFGWfA/nainital-20220425094011.jpg?h=400"
+        }
+    ],
+    "food": [
+        {
+            "id": 1,
+            "name": "Kochi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/q2_1UJRKRi-JA5URnsYlrw/a-city-of-eclectic-cultures-mounuments-and-_8br8xkb.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Jodhpur",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/SkZZW54OQLGE2oB7jWQqKg/the-blue-city-charms-travellers-with-rich-h_AT52qza.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Mumbai",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/UWJiH32BTceUwGTTcYKFhg/immerse-in-the-grandeur-of-a-beautiful-cosm_A8LEuz6.jpg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Panchgani",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Qc8EQutIRdaCZ7DW68ya8A/the-meadows-hills-that-soothe-your-hearts-2_Yaumn8n.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Mysore",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/2sebkMshRAGGtfIlFRMpgA/the-city-of-glory-great-food-and-yoga-20201_4LDGqHE.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Aurangabad",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/XaytahvmQ4-_ftorVrLJvA/aurangabad-20220127184606.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Rishikesh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/pV8Zu4TVQbeSL59nrusJeA/get-spiritual-adventurous-in-this-city-by-t_xbL6gM3.jpg?h=400"
+        }
+    ],
+    "nature": [
+        {
+            "id": 1,
+            "name": "Rumsu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/f49h5oWdTvmSC7fAFkDzKg/rumsu-20220520120630.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Cheog",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/klPbFw-LTqKyyzDQBl0Zew/cheog-20220531115200.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Naggar",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/4PemODayTxSzAoT2kTG9lQ/naggar-20220129152552.JPG?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Dobhi",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/Gfsg8IToQ06i9kMUmr2zFg/dobhi-20211221140238.JPG?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Kotkhai",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/7aR77y23RE2ku4DqWkxMQw/kotkhai-20220129082514.jpeg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Kibber",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ycrLKCSzTLynEcEMWhfhbQ/kibber-village-20220518114707.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Sissu",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/HtlJPy4VR16l3Jo_Sv_7qA/sissu-20220520105126.jpg?h=400"
+        }
+    ],
+    "off": [
+        {
+            "id": 1,
+            "name": "Tabo",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/X-2PXSAITViLrKBfb1E35g/tabo-20220509192037.jpg?h=400"
+        },
+        {
+            "id": 2,
+            "name": "Chamba",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/UckUVWBuRO26Pzrm9kNB8A/chamba-20220602201924.jpg?h=400"
+        },
+        {
+            "id": 3,
+            "name": "Theog",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/ejoc4XjpR8K-iVeLgcsJhA/theog-20220129083825.jpeg?h=400"
+        },
+        {
+            "id": 4,
+            "name": "Shangarh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/EG5ypwdDS5qOTvUD1wHlAg/shangarh-20220520104026.jpg?h=400"
+        },
+        {
+            "id": 5,
+            "name": "Ramgarh",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/EG5ypwdDS5qOTvUD1wHlAg/shangarh-20220520104026.jpg?h=400"
+        },
+        {
+            "id": 6,
+            "name": "Rashil",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/9qA5tJuOQ-KuMTDuQaawNA/rashil-20220520101141.jpg?h=400"
+        },
+        {
+            "id": 7,
+            "name": "Laida",
+            "image": "https://img.cdn.zostel.com/zostel/gallery/images/DQgGrIe5QU28zSn0q7r_hw/laida-20220531122210.png?h=400"
+        }
+    ],
+    "award&media": [
+        {
+            "id": 1,
+            "tag": "AWARD",
+            "name": "BEST HOSTEL IN INDIA - 2017",
+            "description": "Hostelworld award for Best Hostel in India",
+            "image": "https://img.cdn.zostel.com/cache/_3eb08c6992bfe8436b7b5834bf99ad30/C3fgJ6OWIAAWLBM.jpg-large_140x140.jpg"
+        },
+        {
+            "id": 2,
+            "tag": "AWARD",
+            "name": "BEST HOSTEL IN NEPAL - 2019",
+            "description": "Hostelworld award for Best Hostel in Nepal",
+            "image": "https://img.cdn.zostel.com/cache/_a071cbb4dbfe7b8d11d2951f5e1f572c/Best_Hostel_in_Nepal_140x140.jpg"
+        },
+        {
+            "id": 3,
+            "tag": "MEDIA",
+            "name": "ZOSTEL - IDEAL STAY FOR SOLO FEMALES",
+            "description": "Safe, fun stay option for female solo travelers",
+            "image": "https://img.cdn.zostel.com/cache/_f96f13896332b283beb86509d653bea2/175x175bb_140x140.jpg"
+        },
+        {
+            "id": 4,
+            "tag": "AWARD",
+            "name": "BEST HOSTEL IN NEPAL - 2020",
+            "description": "Hostelworld award for Best Hostel in Nepal",
+            "image": "https://img.cdn.zostel.com/cache/_93f8d46a358ec59ae925f603ca34b3bc/Hoscar_Badges_2020_223_140x140.jpg"
+        }
+    ],
+    "latestReads": [
+        {
+            "id": 1,
+            "tag": "Discovering a quick weekend getaway from Pune",
+            "name": "Vineet Gupta",
+            "description": "Discover a new weekend getaway in Maharashtra with Zostel. In this travel guide, we tell you all you need to know.",
+            "image": "https://img.cdn.zostel.com/blog_photo/DSC02432.jpg.jpg"
+        },
+        {
+            "id": 2,
+            "tag": "The Ultimate Travel Guide To Dalhousie",
+            "name": "Vineet Gupta",
+            "description": "Explore the best of Dalhousie and Chamba with Zostel. In this Dalhousie travel guide, we tell you all you need to know.",
+            "image": "https://img.cdn.zostel.com/blog_photo/Kalatop_Wildlife_Sanctuary.jpg"
+        },
+        {
+            "id": 3,
+            "tag": "Rediscover Lonavala: A Guide to Maharashtra's Iconic Destination",
+            "name": "Vineet Gupta",
+            "description": "With Zostel Plus Lonavala, you have more than one reason to visit Maharastra's oldest weekend destination. Read on to know.",
+            "image": "https://img.cdn.zostel.com/blog_photo/Lonaaa_1.jpg"
+        }
+    ]
+}

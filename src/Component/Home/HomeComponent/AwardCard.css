@@ -1,0 +1,38 @@
+#award-image {
+    width: 100%;
+    height: 128px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#award-text>h6 {
+    opacity: 0.4;
+    font-size: .75rem;
+}
+
+#award-text>h4 {
+    margin-top: 3px;
+    opacity: 0.8;
+    font-size: .875rem;
+    height: 36px;
+}
+
+#award-text>p {
+
+    opacity: 0.8;
+    font-size: 12px;
+}
+
+#awardContainer {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    /* border: 2px solid red; */
+    width: 94%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+
+#award-text {
+    padding: 5px;
+}

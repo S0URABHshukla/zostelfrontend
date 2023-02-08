@@ -1,0 +1,32 @@
+.card :hover
+{
+    background-color: #f9d4c9;
+    transition: .2s ease-in;
+    width: 100%;
+}
+.upi :hover
+{
+    background-color: #f9d4c9;
+    transition: .2s ease-in;
+    width: 100%;
+}
+.net :hover
+{
+    background-color: #f9d4c9;
+    transition: .2s ease-in;
+    width: 100%;
+}
+.walet :hover
+{
+    background-color: #f9d4c9;
+    transition: .2s ease-in;
+    width: 100%;
+}
+#paymentButton button{
+    color: #f15824;
+    /* display: none !important; */
+    /* background-color: rgb(1, 22, 23); */
+}
+#paymentButton{
+    background-color: #f15824;
+}

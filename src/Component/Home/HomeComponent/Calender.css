@@ -1,0 +1,98 @@
+ .react-datepicker__day--in-selecting-range {
+     border-radius: 0.3rem;
+     background-color: #f15824;
+
+     color: #fff;
+ }
+
+
+ .react-datepicker__day,
+ .react-datepicker__month-text,
+ .react-datepicker__quarter-text,
+ .react-datepicker__year-text {
+     cursor: pointer;
+ }
+
+ .react-datepicker__day-name,
+ .react-datepicker__day,
+ .react-datepicker__time-name {
+     color: #000;
+     display: inline-block;
+     width: 1.7rem;
+     line-height: 1.7rem;
+     text-align: center;
+     margin: 0.166rem;
+ }
+
+ * {
+     margin: 0px;
+     padding: 0px;
+ }
+
+ * {
+     margin: 0px;
+     padding: 0px;
+ }
+
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ user agent stylesheet div {
+     display: block;
+ }
+
+ .react-datepicker__day-names,
+ .react-datepicker__week {
+     white-space: nowrap;
+ }
+
+ .react-datepicker__month {
+     margin: 0.4rem;
+     text-align: center;
+ }
+
+ .react-datepicker {
+     font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+     font-size: 0.8rem;
+     background-color: #fff;
+     color: #000;
+     border: 1px solid #aeaeae;
+     border-radius: 0.3rem;
+     display: inline-block;
+     position: relative;
+ }
+
+ body {
+     margin: 0;
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+ }
+
+ .react-datepicker__header {
+     text-align: center;
+     background-color: white;
+     border-bottom: 1px solid #aeaeae;
+     border-top-left-radius: 0.3rem;
+     padding: 8px 0;
+     position: relative;
+ }
+
+ .react-datepicker__day--selected,
+ .react-datepicker__day--in-selecting-range,
+ .react-datepicker__day--in-range,
+ .react-datepicker__month-text--selected,
+ .react-datepicker__month-text--in-selecting-range,
+ .react-datepicker__month-text--in-range,
+ .react-datepicker__quarter-text--selected,
+ .react-datepicker__quarter-text--in-selecting-range,
+ .react-datepicker__quarter-text--in-range,
+ .react-datepicker__year-text--selected,
+ .react-datepicker__year-text--in-selecting-range,
+ .react-datepicker__year-text--in-range {
+     border-radius: 0.3rem;
+     background-color: #f15824;
+     color: #fff;
+ }

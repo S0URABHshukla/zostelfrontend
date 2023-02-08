@@ -1,0 +1,353 @@
+#booking-container {
+  display: flex;
+  flex-direction: column;
+  /* border: 2px solid red; */
+  width: 70%;
+  justify-content: center;
+  margin: auto;
+  gap: 20px;
+  padding: 20px;
+  margin-top: 50px;
+  color: #96a4a9;
+  background-color: white;
+  border-radius: 15px;
+}
+
+#booking-place {
+  display: flex;
+  flex-direction: row;
+  /* gap: 70px; */
+  justify-content: center;
+  border-bottom: 2px solid #e7edf3;
+  color: #4a5568;
+  text-align: center;
+  /* overflow: scroll; */
+}
+
+.booking-place-hover {
+  padding: 10px;
+  width: 180px;
+  /* border: 2px solid red; */
+  min-width: 140px;
+  font-family: "CircularStdBold";
+  font-size: 17px;
+}
+
+.booking-place-hover:hover {
+  cursor: pointer;
+  color: black;
+}
+
+#booking-place-div {
+  /* width:160%; */
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid #e7edf3;
+  /* border: 2px solid greenyellow; */
+  width: 32%;
+}
+
+#booking-select {
+  width: 100%;
+}
+
+#booking-time {
+  display: flex;
+  flex-direction: row;
+
+  width: 100%;
+  gap: 10px;
+  justify-content: space-around;
+  align-items: flex-end;
+  /* border: 2px solid blueviolet; */
+  padding: 20px;
+}
+
+#booking-checkin-out {
+  display: flex;
+  flex-direction: row;
+  width: 35%;
+  gap: 20px;
+  justify-content: center;
+  align-items: flex-end;
+  border-bottom: 2px solid #e7edf3;
+
+  /* border: 2px solid purple; */
+}
+
+.booking-checkin {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: flex-start;
+  align-items: center;
+  margin: auto;
+  font-family: "CircularStdMedium";
+  font-size: 16px;
+  /* border: 2px solid red; */
+}
+
+.css-1u9des2-indicatorSeparator {
+  display: none;
+}
+
+.css-13cymwt-control {
+  border: none;
+}
+
+.booking-checkin input {
+  text-align: center;
+  border: none;
+  font-size: 13px;
+  margin: auto;
+  width: 100%;
+  min-width: 100px;
+  font-weight: 500;
+  /* font-family: unset; */
+  margin-bottom: 10px;
+  font-family: CircularStdBook;
+}
+
+#booking-button {
+  /* border: 2px solid black; */
+  width: 28%;
+  padding-right: 20px;
+}
+
+#booking-button button {
+  padding: 10px;
+  border: none;
+  width: 100%;
+  background-color: #f15824;
+  border-radius: 8px;
+  color: white;
+  font-weight: bolder;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+#booking-place-div .css-1xc3v61-indicatorContainer {
+  display: none;
+}
+
+@media only screen and (max-width: 1080px) and (min-width: 850px) {
+  #booking-container {
+    width: 90%;
+  }
+
+  #booking-place {
+    /* padding-left: 200px; */
+    overflow: scroll;
+    gap: 0px;
+  }
+}
+
+@media only screen and (max-width: 850px) and (min-width: 670px) {
+  #booking-container {
+    width: 90%;
+  }
+
+  #booking-place-div {
+    width: 35%;
+    font-size: 12px;
+  }
+
+  #booking-time {
+    gap: 10px;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 10px;
+  }
+
+  .booking-place-hover {
+    font-size: 15px;
+  }
+
+  .booking-checkin input {
+    font-size: 12px;
+  }
+
+  #booking-button {
+    width: 20%;
+    padding-right: 10px;
+  }
+
+  #booking-checkin-out {
+    width: 50%;
+  }
+
+  #booking-place {
+    gap: 0px;
+    /* min-width: 100px; */
+    overflow: scroll;
+    /* padding-left: 30px; */
+  }
+}
+
+@media only screen and (max-width: 670px) and (min-width: 575px) {
+  #booking-container {
+    width: 80%;
+  }
+
+  #booking-place {
+    /* gap: 15px; */
+    overflow: scroll;
+    font-size: 15px;
+    /* min-width: 180px; */
+    padding-left: 150px;
+  }
+
+  #booking-time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0px;
+  }
+
+  #booking-place-div {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  #booking-select {
+    width: 90%;
+    /* padding-right: 10%; */
+  }
+
+  #booking-checkin-out {
+    margin-top: 15px;
+  }
+
+  #booking-button {
+    margin-top: 20px;
+    width: 70%;
+  }
+}
+
+@media only screen and (max-width: 575px) and (min-width: 500px) {
+  #booking-place {
+    overflow: scroll;
+    font-size: 15px;
+    padding-left: 200px;
+  }
+
+  #booking-container {
+    width: 80%;
+  }
+
+  #booking-time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+  }
+
+  #booking-place-div {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  #booking-select {
+    width: 90%;
+    /* padding-right: 10%; */
+  }
+
+  #booking-checkin-out {
+    margin-top: 15px;
+  }
+
+  #booking-button {
+    margin-top: 20px;
+    width: 70%;
+  }
+}
+@media only screen and (max-width: 500px) and (min-width: 400px) {
+  #booking-place {
+    overflow: scroll;
+    font-size: 15px;
+    padding-left: 85%;
+  }
+
+  #booking-container {
+    width: 80%;
+  }
+
+  #booking-time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+  }
+
+  #booking-place-div {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  #booking-select {
+    width: 90%;
+    /* padding-right: 10%; */
+  }
+
+  #booking-checkin-out {
+    margin-top: 15px;
+  }
+
+  #booking-button {
+    margin-top: 20px;
+    width: 70%;
+  }
+}
+@media only screen and (max-width: 400px) and (min-width: 300px) {
+  #booking-place {
+    overflow: scroll;
+    font-size: 15px;
+    padding-left: 300px;
+  }
+
+  #booking-container {
+    width: 80%;
+  }
+
+  #booking-time {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+  }
+
+  #booking-place-div {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+  }
+
+  #booking-select {
+    width: 90%;
+    /* padding-right: 10%; */
+  }
+
+  #booking-checkin-out {
+    margin-top: 15px;
+  }
+
+  #booking-button {
+    margin-top: 20px;
+    width: 70%;
+  }
+}

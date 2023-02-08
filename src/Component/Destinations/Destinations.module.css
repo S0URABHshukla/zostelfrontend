@@ -1,0 +1,100 @@
+.head
+{
+    color: #F15824;
+}
+.header
+{
+    text-align: center;
+}
+.home
+{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color: #96a4a9;
+}
+.arrow
+{
+    color: #96a4a9;
+    font-size: 10px;
+}
+.des
+{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    color: #546267;
+}
+.data
+{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 10px 100px;
+    gap: 15px;
+    cursor: pointer;
+    z-index: -1;
+    position: sticky;
+}
+.data div
+{
+    height:320px;
+}
+.data div img
+{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+}
+.data div p
+{
+    position: absolute;
+    z-index: 2;
+    color:#ffffff;
+    margin-top: -45px;
+    margin-left: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+.hd
+{
+    padding-left: 100px;
+}
+.hd :hover
+{
+    color: #F15824;
+    cursor: pointer;
+}
+
+/* responsive */
+
+@media only screen and (min-width: 360px) and (max-width: 899px) 
+{
+    .data
+    {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+     
+}
+@media only screen and (min-width: 360px) and (max-width: 599px) 
+{
+    .data
+    {
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+     
+}
+@media only screen and (min-width: 0px) and (max-width: 499px) 
+{
+    .data
+    {
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+     
+}

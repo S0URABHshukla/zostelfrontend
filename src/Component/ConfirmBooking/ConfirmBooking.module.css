@@ -1,0 +1,181 @@
+/* --------------------------------- CONFIRM YOUR BOOKING CSS ---------------------------- */
+#heading {
+  text-align: left;
+  margin-left: 40px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+.child {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.child form {
+  width: 800px;
+  border: 1px solid rgb(220, 227, 230);
+  border-radius: 10px;
+  margin-left: 25px;
+  box-sizing: border-box;
+}
+
+.child form hr {
+  border: 1px solid rgb(220, 227, 230);
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.child form p {
+  text-align: left;
+  margin-left: 28px;
+  font-size: 14px;
+  padding: 10px;
+}
+.child form span {
+  color: rgb(241, 88, 36);
+}
+form h2 {
+  text-align: left;
+  margin-left: 30px;
+  font-weight: 750;
+  font-size: 18px;
+}
+#h2_guest {
+  background-color: rgb(250, 254, 255);
+  padding: 1px;
+  width: 100%;
+  padding-right: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom: 1px solid rgb(220, 227, 230);
+  /* box-sizing: border-box; */
+}
+
+#h2_guest1 {
+  background-color: rgb(250, 254, 255);
+  padding: 1px;
+  width: 100%;
+  padding-right: 10px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  box-sizing: border-box;
+}
+
+.head {
+  border-bottom: 1px solid rgb(220, 227, 230);
+  margin-bottom: 20px;
+}
+.name_div input {
+  width: 22%;
+
+  margin-left: 5px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+  padding: 13px;
+  border: none;
+  margin-bottom: 20px;
+  border: 1px solid rgb(227, 235, 236);
+}
+.name_div label {
+  margin-right: 7%;
+  /* margin-left: -1%; */
+}
+.select_div input {
+  /* padding: 13px; */
+  padding: 13px 0px 13px 13px;
+  width: 76%;
+
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: 1px solid rgb(218, 226, 228);
+}
+.select_div select {
+  padding: 13px;
+  border: none;
+  width: 77%;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: 1px solid rgb(220, 227, 230);
+}
+.select_div label {
+  margin-right: 6%;
+}
+.address {
+  /* padding: 20px; */
+
+  height: 70px;
+}
+
+/* ---------------------------property div -------------------------------- */
+.property_div {
+  text-align: left;
+  width: 800px;
+  border: 1px solid rgb(220, 227, 230);
+  border-radius: 10px;
+  margin-left: 25px;
+  box-sizing: border-box;
+  list-style-type: none;
+  margin-top: 20px;
+  padding-right: 11px;
+}
+
+.property_div h2 {
+  margin-left: 25px;
+  font-size: 20px;
+}
+
+.property_div li {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+/* ------------------calcellation div --------------------------------- */
+.cancellation_div {
+  text-align: left;
+  width: 800px;
+  border: 1px solid rgb(220, 227, 230);
+  border-radius: 10px;
+  margin-left: 25px;
+  box-sizing: border-box;
+  list-style-type: none;
+  margin-top: 20px;
+  padding-right: 11px;
+  margin-bottom: 20px;
+}
+.cancellation_div h2 {
+  margin-left: 33px;
+  font-size: 20px;
+}
+.cancellation_div li {
+  list-style-type: none;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+
+/* ----------------right div ------------------------ */
+.summary_div {
+  border: 1px solid rgb(220, 227, 230);
+  height: 560px;
+  margin-left: 20px;
+  border-radius: 10px;
+  background-color: #e8f0f2;
+  padding: 10px;
+}
+.price_div {
+  display: flex;
+  gap: 250px;
+}
+.price_div h3 {
+  line-height: 40%;
+}
+.p_div {
+  margin-right: 20px;
+  text-align: right;
+}
+.tax_div {
+  margin-left: 20px;
+  text-align: left;
+}
+#confirmpay {
+  background-color: #e8f0f2;
+}

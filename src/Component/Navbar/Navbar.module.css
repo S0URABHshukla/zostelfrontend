@@ -1,0 +1,165 @@
+
+*
+{
+    font-family: -apple-system, BlinkMacSystemFont, 
+    "Segoe UI", "Roboto", "Oxygen", 
+    "Ubuntu", "Cantarell", "Fira Sans", 
+    "Droid Sans", "Helvetica Neue", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.logo
+{
+    width: 25%;
+}
+.navbar
+{
+    display:flex;
+    justify-content: space-around;
+    height: 70px;    
+}
+.menu
+{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+.menuText
+{
+    text-decoration: none;    
+    color:black;
+    padding:20px;
+    font-size:16px;
+    align-items:center;
+    line-height:24px;
+}
+.menuText:hover
+{
+    color: #F15824;
+    transition: .1s ease-in;
+}
+.downloadbtn
+{
+    padding: 10px;
+    font-weight: 600;
+    font-size: 16px;
+    border: 1px solid #F15824;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 15px;
+}
+.zostelmenuhover
+{
+    display: flex;
+    background-color: #0A181D;
+    color: white;
+    gap: 20px;
+    width: 40%;
+    margin-left: 40%;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    z-index: 1;
+    position: absolute;
+}
+.homesmenuhover
+{
+    display: flex;
+    gap: 20px;
+    background-color: #0A181D;
+    color: white;
+    gap: 20px;
+    width: 30%;
+    margin-left:47%;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    z-index: 1;
+    position: absolute;
+}
+.plusmenuhover
+{
+    display: flex;
+    background-color: #0A181D;
+    color: white;
+    gap: 20px;
+    width: 15%;
+    margin-left:57%;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    z-index: 1;
+    position: absolute;
+}
+.joinmenuhover
+{
+    display: flex;
+    background-color: #0A181D;
+    color: white;
+    width: 17%;
+    margin-left: 73%;
+    padding: 10px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    z-index: 1;
+    position: absolute; 
+}
+.zostelmenuhover div p:hover
+{
+    color: #F15824;
+    cursor: pointer;
+}
+.homesmenuhover div p:hover
+{
+    color: #F15824;
+    cursor: pointer;
+}
+.plusmenuhover div p:hover
+{
+    color: #F15824;
+    cursor: pointer;
+}
+.joinmenuhover div p:hover
+{
+    color: #F15824;
+    cursor: pointer;
+}
+
+/* navbar2 */
+.nav2
+{
+    margin-top:-5px;
+    margin-bottom:-10px ;
+    display: flex;
+    justify-content: space-between;
+    padding-right:100px;
+}
+.logo2
+{
+    width:150px; 
+    padding-left: 15px;   
+}
+.menuicon
+{
+    margin-top: 30px;
+}
+.navbar2menu
+{
+    /* background-color: #0A181D;
+    height: 100vh;
+    width: 100vw; */
+}
+
+
+/* responsive */
+@media only screen and (min-width:0px) and (max-width:649) { 
+    .nav2
+    {
+        visibility: visible;
+    }
+}

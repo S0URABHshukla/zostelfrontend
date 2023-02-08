@@ -1,0 +1,32 @@
+  .newYear {
+    background-color: #e8f0f2;
+    display: flex;
+    flex-direction: column;
+
+    /* border: 2px solid blue;   */
+  }
+
+  .newYear>div:nth-child(1) {
+    margin-left: 10%;
+  }
+
+  #slider {
+    width: 80%;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    /* border: 2px solid red; */
+  }
+
+  .react-multiple-carousel__arrow {
+    background: rgb(254 247 247 / 60%);
+
+  }
+
+  .react-multiple-carousel__arrow:hover {
+    background: rgb(254 247 247 / 60%);
+  }
+
+  .react-multiple-carousel__arrow::before {
+    color: #f15824
+  }

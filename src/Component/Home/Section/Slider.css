@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#slider-top{
+    width: 100%;
+    height: fit-content !important;
+    /* overflow: hidden; */
+}
+#booking-top{
+    position: absolute; 
+    width: 100%;
+    top: 200px;
+    margin: auto;
+     
+    /* height: 400px;  */  
+}
+    

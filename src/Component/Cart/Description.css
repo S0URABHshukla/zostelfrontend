@@ -1,0 +1,361 @@
+table {
+  width: 100%;
+}
+
+tr td {
+  font-family: "CircularStdBold";
+  color: #4b4848;
+}
+
+#firstdiv {
+  font-family: "CircularStdBook";
+  color: #4b4848;
+  font-size: 17px;
+  margin-bottom: 30px;
+  font-weight: 500;
+}
+
+#head {
+  margin-top: 20px;
+  color: #f15824;
+  font-family: "CircularStdBlack";
+  font-size: 36px;
+}
+
+#amenities {
+  width: 600px;
+  margin-left: 60px;
+}
+
+#amicon {
+  display: flex;
+  align-items: center;
+  height: 30px;
+}
+
+#ws {
+  border: 1.8px solid rgb(227, 226, 226);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 150px;
+  border-radius: 10px;
+  height: 50px;
+  color: rgb(236, 68, 22);
+}
+
+#name {
+  color: rgb(0, 0, 0);
+  font-family: "CircularStdBlack";
+  margin-top: 20px;
+  font-size: 23px;
+}
+
+#direction {
+  font-weight: 600;
+  border: 1.8px solid rgb(227, 226, 226);
+  display: flex;
+  align-items: center;
+  width: 395px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  justify-content: flex-start;
+  height: 50px;
+}
+
+#maxmin {
+  border: 0px;
+  cursor: pointer;
+}
+
+#getDirection {
+  border: 1.8px solid rgb(227, 226, 226);
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 395px;
+  height: 50px;
+  border-radius: 10px;
+  justify-content: flex-start;
+  color: rgb(236, 68, 22);
+  cursor: pointer;
+}
+
+#maxmin {
+  background: none;
+  font-size: larger;
+}
+
+#mapframe {
+  border: 2px solid blue;
+}
+
+#bookmain {
+  margin: auto;
+
+  width: 1200px;
+  display: flex;
+}
+
+#bookroomdiv {
+  width: 800px;
+}
+
+#booksum {
+  width: 400px;
+  margin: 10px;
+}
+
+#bookhead {
+  display: flex;
+  align-items: center;
+}
+
+#main {
+  background-color: #e8f0f2;
+}
+
+#roomname2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 17px;
+  /* margin-top: -30px; */
+}
+
+#selbeddiv2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#bedroom {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  margin: 10px;
+  height: 180px;
+  border-radius: 10px;
+}
+
+#bedroom:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+}
+
+#roomdetails2 {
+  margin: 20px;
+}
+
+#roomdesc2 {
+  font-size: 13px;
+  font-family: "CircularStdBook";
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+#finalval2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+#tax22 {
+  display: flex;
+  font-family: "CircularStdBlack";
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+#tax22 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+#payvall {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+#booknow {
+  width: 400px;
+  height: 50px;
+  background-color: #f15824;
+  border: 0px;
+  color: #e8f0f2;
+  font-weight: 800;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+#bookbtn {
+  display: flex;
+  justify-content: center;
+}
+
+#selbed2 {
+  background-color: #f15824;
+  border: 0px;
+  height: 30px;
+  border-radius: 10px;
+  color: #e8f0f2;
+  font-weight: bold;
+  width: 90px;
+}
+
+#selbed2:hover {
+  background-color: #ffffff;
+  color: #f15824;
+  cursor: pointer;
+  border: 1px solid gainsboro;
+}
+
+#descrbtn {
+  background-color: #f15824;
+  color: #ffffff;
+  border: 0px;
+  height: 31px;
+  width: 30px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+#incrbtn {
+  background-color: #f15824;
+  color: #ffffff;
+  border: 0px;
+  height: 31px;
+  width: 30px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+#countval,
+#countval2,
+#countval3 {
+  height: 30px;
+  border: 0px;
+  text-align: end;
+  width: 30px;
+  background-color: #e8f0f2;
+}
+
+#cal .react-datepicker__day--selected,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--in-range,
+.react-datepicker__month-text--selected,
+.react-datepicker__month-text--in-selecting-range,
+.react-datepicker__month-text--in-range,
+.react-datepicker__quarter-text--selected,
+.react-datepicker__quarter-text--in-selecting-range,
+.react-datepicker__quarter-text--in-range,
+.react-datepicker__year-text--selected,
+.react-datepicker__year-text--in-selecting-range,
+.react-datepicker__day--in-selecting-range,
+.react-datepicker__day--in-range,
+.react-datepicker__year-text--in-range {
+  border-radius: 0.3rem;
+  background-color: #f15824;
+  color: #fff;
+}
+
+#cal .react-datepicker__day--in-selecting-range {
+  border-radius: 0.3rem;
+  background-color: #f15824;
+
+  color: #fff;
+}
+
+#cal {
+  display: flex;
+  background: "white";
+  border-radius: 10px;
+}
+
+#cal .react-datepicker__input-container>input {
+  border: 0px;
+  font-family: CircularStdMedium;
+  height: 40px;
+}
+
+#ppolicy>p {
+  margin-top: 15px;
+}
+
+#cpolicy>p {
+  margin-top: 15px;
+}
+#cpolicy {
+  margin-bottom: 20px;
+}
+#cal {
+  border-radius: 10px;
+  overflow: hidden;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+#cal input {
+  padding-left: 15px;
+}
+#pricetag {
+  font-size: 20px;
+  font-family: "CircularStdBlack";
+}
+#night {
+  font-family: "CircularStdMedium";
+  font-size: 12px;
+  color: #4b4848;
+}
+#personicon {
+  display: flex;
+  font-size: 13px;
+  align-items: center;
+  margin: 5px;
+}
+#bookicons {
+  margin-top: 10px;
+}
+#availcal {
+  font-size: 13px;
+  font-family: "CircularStdBold";
+  color: #f15824;
+  margin-top: 15px;
+}
+#address {
+  font-size: 15px;
+}
+#datadays {
+  display: flex;
+  font-family: "CircularStdBold";
+}
+#datadays .react-datepicker__input-container > input {
+  border: 0px;
+  font-family: "CircularStdBlack";
+  font-size: 15px;
+  height: 20px;
+  background-color: #e8f0f2;
+  margin-left: 5px;
+}
+#roomcount {
+  color: #4b4848;
+  font-family: "CircularStdMedium";
+  font-size: 15px;
+}
+#finalval3 {
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+#tax2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+}
